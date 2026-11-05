@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiger Lucky Trail</string>
+    <string name="app_title">TIGER LUCKY TRAIL</string>
+
+    <string name="splash_subtitle">FOLLOW THE FORTUNE TIGER</string>
+    <string name="splash_caption">PREPARING THE TRAIL</string>
+
+    <string name="hub_subtitle">FORTUNE TIGER HUB</string>
+    <string name="tokens_caption">TOKENS</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="bank_tokens">BANK TOKENS</string>
+    <string name="start_challenge">START CHALLENGE</string>
+    <string name="claim_reward">CLAIM REWARD</string>
+    <string name="claim">CLAIM</string>
+    <string name="resume">RESUME</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="how_to_play">TRAIL RULES</string>
+    <string name="got_it">GOT IT</string>
+
+    <string name="route_bamboo">BAMBOO GROVE</string>
+    <string name="route_mist">MIST CANOPY</string>
+    <string name="route_temple">TIGER TEMPLE</string>
+    <string name="route_summary">%1$d STONES PER ROW · %2$d STEPS</string>
+    <string name="route_detail">%1$d STONES · %2$d STEPS · +%3$d PER STEP</string>
+    <string name="route_locked">UNLOCKS AT %1$d TOKENS</string>
+    <string name="route_unlock_at">UNLOCKS AT %1$d TOKENS</string>
+    <string name="route_best">BEST: %1$d STEPS</string>
+    <string name="route_no_best">READY FOR THE FIRST RUN</string>
+
+    <string name="tile_daily">DAILY</string>
+    <string name="tile_progress">PROGRESS</string>
+    <string name="tile_rewards">REWARDS</string>
+    <string name="tile_settings">SETTINGS</string>
+    <string name="caption_ready">READY</string>
+    <string name="caption_done">DONE</string>
+    <string name="caption_best_steps">BEST %1$d STEPS</string>
+    <string name="caption_no_runs">NO RUNS YET</string>
+    <string name="caption_rewards_ready">%1$d READY</string>
+    <string name="caption_locked">KEEP EARNING</string>
+    <string name="caption_options">OPTIONS</string>
+
+    <string name="chip_steps">%1$d STEPS</string>
+    <string name="chip_locked">LOCKED</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_not_selected">NOT SELECTED</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="step_counter">STEP %1$d / %2$d</string>
+    <string name="run_tokens">RUN TOKENS</string>
+    <string name="shield_count">%1$d</string>
+    <string name="reward_plus">+%1$d</string>
+    <string name="strip_step">STEP %1$d</string>
+    <string name="strip_next">NEXT +%1$d</string>
+    <string name="strip_banked">BANKED %1$s</string>
+    <string name="hint_tap_stone">TAP A STONE TO LEAP</string>
+    <string name="hint_bank_or_leap">BANK NOW OR KEEP CLIMBING</string>
+    <string name="hint_blocked">THE TRAIL IS BLOCKED</string>
+    <string name="shield_absorbed">SHIELD ABSORBED THE HAZARD</string>
+
+    <string name="state_stone_untouched">UNREVEALED STONE</string>
+    <string name="state_stone_safe">SAFE STONE, PLUS %1$d TOKENS</string>
+    <string name="state_stone_hazard">BLOCKED STONE</string>
+    <string name="state_stone_shielded">SHIELDED STONE</string>
+    <string name="state_stone_passed">PASSED STONE</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_body">Leaving the trail now abandons every token you have not banked yet.</string>
+    <string name="how_to_line_one">Each row of stones hides one playful obstacle. Tap a stone and the tiger leaps onto it.</string>
+    <string name="how_to_line_two">Every safe leap pays more trail tokens than the last one.</string>
+    <string name="how_to_line_three">Bank your tokens whenever you like, or push one more step up the trail.</string>
+
+    <string name="result_banked">TRAIL BANKED</string>
+    <string name="result_blocked">TRAIL BLOCKED</string>
+    <string name="result_subtitle">YOU REACHED STEP %1$d OF %2$d</string>
+    <string name="result_empty_hint">The very first stone hid the obstacle. Pick another one and the trail opens up.</string>
+    <string name="new_record">NEW ROUTE RECORD</string>
+    <string name="stat_tokens_banked">TOKENS BANKED</string>
+    <string name="stat_tokens_lost">TOKENS LOST</string>
+    <string name="stat_steps">STEPS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_lifetime">LIFETIME</string>
+    <string name="stat_runs">RUNS</string>
+    <string name="stat_best_steps">BEST STEPS</string>
+
+    <string name="daily_title">DAILY CHALLENGE</string>
+    <string name="daily_caption">RESETS EVERY DAY</string>
+    <string name="daily_goal_step">REACH STEP %1$d ON %2$s</string>
+    <string name="daily_goal_tokens">BANK %1$d TOKENS IN ONE RUN</string>
+    <string name="daily_goal_runs">COMPLETE %1$d RUNS TODAY</string>
+    <string name="daily_progress">%1$d / %2$d</string>
+    <string name="daily_reward_tokens">+%1$d TOKENS</string>
+    <string name="daily_reward_shield">+1 TIGER SHIELD</string>
+    <string name="daily_come_back">COME BACK TOMORROW</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="progress_caption">ROUTES AND RECORDS</string>
+    <string name="progress_empty_title">NO RUNS YET</string>
+    <string name="progress_empty_body">Begin on the Bamboo Grove and the records fill in.</string>
+
+    <string name="rewards_title">REWARDS</string>
+    <string name="tab_rewards">REWARDS</string>
+    <string name="tab_collection">COLLECTION</string>
+    <string name="tier_requirement">%1$d LIFETIME TOKENS</string>
+    <string name="tier_claimed">CLAIMED</string>
+    <string name="tier_to_go">%1$d TO GO</string>
+    <string name="tier_jungle_satchel">JUNGLE SATCHEL</string>
+    <string name="tier_lantern_cache">LANTERN CACHE</string>
+    <string name="tier_striped_chest">STRIPED CHEST</string>
+    <string name="tier_fortune_hoard">FORTUNE HOARD</string>
+    <string name="charm_jade_paw">JADE PAW</string>
+    <string name="charm_sun_lantern">SUN LANTERN</string>
+    <string name="charm_bamboo">BAMBOO CHARM</string>
+    <string name="charm_mist_feather">MIST FEATHER</string>
+    <string name="charm_temple_coin">TEMPLE COIN</string>
+    <string name="charm_golden_stripe">GOLDEN STRIPE</string>
+    <string name="charm_locked">LOCKED</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_caption">TUNE THE TRAIL</string>
+    <string name="setting_haptics">HAPTIC FEEDBACK</string>
+    <string name="setting_haptics_body">A short buzz on every leap and bank</string>
+    <string name="setting_motion">REDUCED MOTION</string>
+    <string name="setting_motion_body">Skip looping and entry animations</string>
+    <string name="setting_hints">SHOW STONE HINTS</string>
+    <string name="setting_hints_body">Mark one safe stone on the first steps</string>
+    <string name="reset_title">RESET PROGRESS?</string>
+    <string name="reset_body">Tokens, records, charms and shields all go back to the start. This cannot be undone.</string>
+    <string name="reset_done">PROGRESS RESET</string>
+    <string name="settings_footer">TIGER LUCKY TRAIL · OFFLINE · NO REAL MONEY</string>
+
+    <string name="cd_logo">Tiger Lucky Trail emblem</string>
+    <string name="cd_tiger">Fortune Tiger</string>
+    <string name="cd_menu">Menu</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_hazard">Trail obstacle</string>
+    <string name="cd_reward_crate">Reward crate</string>
+</resources>

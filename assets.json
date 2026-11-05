@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Jungle trail background for TigerLuckyTrail"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Tiger head emblem for TigerLuckyTrail"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Home navigation icon for TigerLuckyTrail"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Pause navigation icon for TigerLuckyTrail"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Tiger pawn token for TigerLuckyTrail"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Golden reward token for TigerLuckyTrail"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Hazard thorn marker for TigerLuckyTrail"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Treasure chest for TigerLuckyTrail"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Trail leaf marker for TigerLuckyTrail"
+    },
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "Launcher icon for TigerLuckyTrail"
+    }
+  ]
+}
